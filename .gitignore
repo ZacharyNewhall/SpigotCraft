@@ -5,7 +5,7 @@
 *.lck
 *.log
 *.sqlite
-
+.DS_Store
 plugins/Essentials/userdata/
 plugins/Essentials/usermap.csv
 plugins/GriefPreventionData/ClaimData/
