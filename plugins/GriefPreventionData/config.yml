@@ -4,12 +4,10 @@ GriefPrevention:
     world: -1
     world_nether: -1
     world_the_end: -1
-    plots: -1
   Claims:
     Mode:
-      world_nether: Disabled
       world_the_end: Disabled
-      plots: Disabled
+      world_nether: Disabled
       world: Survival
     PreventTheft: true
     ProtectCreatures: true
@@ -66,7 +64,6 @@ GriefPrevention:
       world: true
       world_nether: true
       world_the_end: true
-      plots: true
     ProtectFreshSpawns: true
     PunishLogout: true
     CombatTimeoutSeconds: 10
