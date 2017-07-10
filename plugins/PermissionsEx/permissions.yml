@@ -190,4 +190,9 @@ users:
     - Admin
     options:
       name: eI_diablo
+  1ef6c5db-b92e-4506-bbb0-5560a9e2a16d:
+    group:
+    - Admin
+    options:
+      name: Lexi7879
 schema-version: 1
