@@ -189,4 +189,5 @@ users:
     group:
     - Admin
     options:
-      name: 'eI_Diabo'
+      name: eI_diablo
+schema-version: 1
